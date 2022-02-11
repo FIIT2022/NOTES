@@ -1,0 +1,79 @@
+Database---
+
+Database Management Systems
+
+types of Databases
+
+Type of Database Management
+
+
+Software Installation:
+
+
+
+
+Data Base:
+
+     
+
+Data-----collection of information---------
+
+data bases----collections of data's
+
+why want to use ------to store the information
+
+why want to use for store---feature reference
+
+
+Information Retrieval----
+
+
+Data base Types:
+
+Hierarchical data base-----tree-like structure-----parents---father-mother---child
+
+Relational Data Base:--------Relationship between two things----employeee-----department----product----order----customer---
+
+Object Relational Data base---------collections of objects to store single objects---employee----objects--dbs-
+ORM---object relational mapping
+
+Network Databases------graph oriented structure----social media networks
+
+
+
+DBMS?
+
+
+database Management System.
+
+
+-----is a software that manipulate to store the data and retrieval the data that is called dbms
+
+------Types of DBMS----
+
+HRDBMS------------db2
+RDBMS---------oracle 
+ORDBMS--------oralcel,sql server,mysql,php my admin,sqlite,mongodb
+NRDBMS----cassandra
+
+
+Oracle----ORdbms,RDBMS,,
+
+
+SQL---Structured Query Language:
+
+Commands
+
+Oracle sql I
+
+Oracle Sql II
+
+PLSQL
+
+
+
+
+
+
+
+
